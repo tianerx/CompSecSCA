@@ -18,9 +18,9 @@
   </repositories>
   <dependencies>
     <dependency>
-      <groupId>org.jenkins-ci.main</groupId>
-      <artifactId>cli</artifactId>
-      <version>1.532.2</version>
+      <groupId>ca.juliusdavies</groupId>
+      <artifactId>not-yet-commons-ssl</artifactId>
+      <version>0.3.11</version>
     </dependency>
   </dependencies>
 </project>
