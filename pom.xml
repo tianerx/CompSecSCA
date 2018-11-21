@@ -21,6 +21,7 @@
       <groupId>org.apache.tomcat</groupId>
       <artifactId>tomcat</artifactId>
       <version>7.0.52</version>
+      <type>zip</type>
     </dependency>
   </dependencies>
 </project>
